@@ -8,6 +8,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native-elements": "2.1.0",
+    "react-native-vector-icons": "7.0.0",
     "react-native-web": "0.13.3",
     "react-scripts": "3.4.1"
   },
