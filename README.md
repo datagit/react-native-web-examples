@@ -1,2 +1,3 @@
 # react-native-web-examples
-Created with CodeSandbox
+
+- https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/
